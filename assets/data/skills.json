@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Dribbling",
+    "level": "Basic",
+    "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=300&h=200&fit=crop"
+  },
+  {
+    "name": "Ball Control",
+    "level": "Basic",
+    "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=300&h=200&fit=crop"
+  },
+  {
+    "name": "Passing",
+    "level": "Basic",
+    "image": "https://images.unsplash.com/photo-1511886929837-354d827aae26?w=300&h=200&fit=crop"
+  },
+  {
+    "name": "Shooting",
+    "level": "Basic",
+    "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=300&h=200&fit=crop"
+  },
+  {
+    "name": "Vault",
+    "level": "Intermediate",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=300&h=200&fit=crop"
+  },
+  {
+    "name": "Precision Passing",
+    "level": "Intermediate",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=200&fit=crop"
+  },
+  {
+    "name": "Tactical Awareness",
+    "level": "Intermediate",
+    "image": "https://images.unsplash.com/photo-1544943910-4c1dc44aab44?w=300&h=200&fit=crop"
+  },
+  {
+    "name": "Speed Control",
+    "level": "Intermediate",
+    "image": "https://images.unsplash.com/photo-1577223625816-7546f13df25d?w=300&h=200&fit=crop"
+  },
+  {
+    "name": "Agility",
+    "level": "Advanced",
+    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=300&h=200&fit=crop"
+  },
+  {
+    "name": "Advanced Techniques",
+    "level": "Advanced",
+    "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=300&h=200&fit=crop"
+  },
+  {
+    "name": "Match Strategy",
+    "level": "Advanced",
+    "image": "https://images.unsplash.com/photo-1577223625816-7546f13df25d?w=300&h=200&fit=crop"
+  },
+  {
+    "name": "Leadership",
+    "level": "Advanced",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=300&h=200&fit=crop"
+  }
+]
