@@ -13,7 +13,7 @@ class SportsSkillsApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Sports Skills App',
+      title: 'Sports Skills App by Yash Gautam',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
           seedColor: Colors.blue,
